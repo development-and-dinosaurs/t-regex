@@ -1,0 +1,28 @@
+docs_dir = 'docs'
+out_dir = 'dist'
+
+[site]
+name = 'T-Regex'
+description = 'A fluent, type-safe Kotlin DSL for Regular Expressions'
+author = ''
+repo_url = 'https://github.com/development-and-dinosaurs/t-regex'
+base_url = 'https://t-regex.developmentanddinosaurs.co.uk'
+version = ''
+edit_branch = 'main'
+
+[theme]
+accent = 'emerald'
+dark_mode = 'auto'
+logo_text = '🦕 T-Regex'
+
+[features]
+search = true
+copy_button = true
+llms_txt = true
+repo_stats = true
+reading_time = true
+edit_link = true
+
+[[nav]]
+title = 'Home'
+path = 'index.md'

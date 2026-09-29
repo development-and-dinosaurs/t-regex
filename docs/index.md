@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="docs/assets/banner.png" alt="T-Regex" />
+  <img src="assets/banner.png" alt="T-Regex" />
 </p>
 
-<img src="docs/assets/logo.png" align="right" width="120" alt="T-Regex logo" />
+<img src="assets/logo.png" align="right" width="120" alt="T-Regex logo" />
 
 # T-Regex
 
