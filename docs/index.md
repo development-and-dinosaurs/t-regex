@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="T-Regex" />
+  <img src="assets/banner.png" alt="T-Regex" width="100%" />
 </p>
 
 <img src="assets/logo.png" align="right" width="120" alt="T-Regex logo" />
